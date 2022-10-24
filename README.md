@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LambrosMgk
+- 👋 Hi, I’m Labros Magiakos
 - 👀 I’m interested in Computer Science and i am studying in University of Crete in the Computer Science Department.
 - 🌱 I’m currently also learning some game development by making a game in unity with a friend.
 - 💞️ I’m looking to collaborate on projects that will help me polish my skills or teach me new ones.
